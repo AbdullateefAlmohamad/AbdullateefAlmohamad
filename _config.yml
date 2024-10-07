@@ -5,14 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Abdullateef Almohamad"
 title_separator          : "-"
 name                     : &name "Abdullateef Almohamad"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://abdullateefalmohamad.github.io/abdullateefalmohamad # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_abd2.png"
+  avatar           : "profile.png"
   name             : "Abdullateef Almohamad"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "TX. USA"
+  location         : "USA"
   employer         : "Texas A&M University"
   uri              : # URL
   email            : "none@example.org" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "abdullateefalmohamad"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
